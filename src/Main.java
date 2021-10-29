@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Executes the program and contains its entryPoint.
  *
- * @author Marlon May
+ * @author Mlim
  * @version 1.0
  */
 public final class Main {
