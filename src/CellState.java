@@ -1,7 +1,7 @@
 /**
  * Contains the possible colours/states a cell in a {@link Board} can have/be in.
  *
- * @author Marlon May
+ * @author Mlim
  * @version 1.0
  */
 public enum CellState {
