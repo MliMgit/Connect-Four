@@ -1,7 +1,7 @@
 /**
  * Models a {@link Player} that is going to be used in {@link Game}.
  *
- * @author Marlon May
+ * @author Mlim
  * @version 1.0
  */
 public class Player {
