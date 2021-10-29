@@ -13,7 +13,7 @@ public class Board {
     private final CellState[][] board;
 
     /**
-     * Creates a {@link Board} with the dimensions 6 by 7 and fills it's cells with an initial state.
+     * Creates a {@link Board} with the dimensions 7 by 6 and fills it's cells with an initial state.
      */
     Board() {
         this.board = new CellState[AMOUNT_OF_ROWS][AMOUNT_OF_COLUMNS];
