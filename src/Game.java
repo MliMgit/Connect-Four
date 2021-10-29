@@ -1,7 +1,7 @@
 /**
  * Models a {@link Game} out of {@link Player} and {@link Board}.
  *
- * @author Marlon May
+ * @author Mlim
  * @version 1.0
  */
 public class Game {
