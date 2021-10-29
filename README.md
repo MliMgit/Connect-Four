@@ -1,2 +1,2 @@
 # ConnectFour
- A Standard Game of Connect Four, with the dimensions 6 x 7
+ A standart game of connect four I developed for demonstration purposes of my current Java abilites.
